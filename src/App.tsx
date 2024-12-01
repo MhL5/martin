@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <main
-      className="my-16 prose-headings:text-[#d32f2f] max-w-3xl mx-auto prose font-vazirmatn text-pretty leading-loose"
+      className="my-16 px-5 prose-headings:text-[#d32f2f] prose-headings:text-balance max-w-3xl mx-auto prose font-vazirmatn text-pretty leading-loose"
       dir="rtl"
     >
       <h1>معرفی برند "پروفسور مارتین"</h1>
