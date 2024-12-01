@@ -1,15 +1,15 @@
 export default function App() {
   return (
     <main
-      className="my-16 px-5 prose-headings:text-[#d32f2f] prose-headings:text-balance max-w-3xl mx-auto prose font-vazirmatn text-pretty leading-loose"
+      className="my-8 sm:my-16 px-5 prose-headings:text-[#d32f2f] prose-headings:text-balance max-w-3xl mx-auto prose font-vazirmatn text-pretty leading-loose"
       dir="rtl"
     >
       <img
-        src="/prof-s.png"
+        src="/prof-s-2.png"
         alt=""
-        className=" object-cover shadow-2xl border rounded-md"
+        className="object-cover mx-auto shadow-2xl border rounded-md"
       />
-      <h1>معرفی برند "پروفسور مارتین"</h1>
+      <h1 className="mt-12">معرفی برند "پروفسور مارتین"</h1>
       <h2>۱. معرفی برند 🌟</h2>
       <p>
         "پروفسور مارتین" نامی آشنا در دنیای کفش‌های طبی است که با بهره‌گیری از
